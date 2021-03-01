@@ -1,0 +1,3 @@
+LevelProgram,From,To,DueDate,ValidityDate,AmountWithinDueDate,AmountAfterDueDate
+0201,1,1000,2021-03-15,2021-03-31,5000,6000
+0205,110,30000,2021-03-15,2021-03-31,3000,3500
